@@ -1,26 +1,10 @@
-## Hi there 👋
-
-<!--
-**maithilighodmare/maithilighodmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maithilighodmare&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maithilighodmare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maithilighodmare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,12 +57,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media-hosting.imagekit.io//b96d9f80526540a6/me1.png?Expires=1836308708&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=x0mPNk9IVNVRaBfrNuOgsEotp0qFdyS3w-1vql3qNSA5ILR-NRvsqFqyA07SP5umn9FX1hBu9l54zb4REhrhCwcSK3svSFrXCriinCJD71w4x6sef25Dxqv8IPkY9lHddpzA3WyUvUkhe17vC52MLQMoJabeZbxW3o3B5Fi2ddFBSsddkkgivKUWvlTRAjXS5~box7Xh73fbCK~pI3aio9G7m-e6uvdnTSN~m~b8rTpsAXC9~nc3C0sHAO9OXtbbKfvRsYLeeeZYrtTpeue3dZmQseP2gTBERK-lsSw0oFebq6SUCfCjiWhavl1QWeAQnHN7k4vfyTXL92-DAr4jTg__"  />
 </div>
 
 ###
